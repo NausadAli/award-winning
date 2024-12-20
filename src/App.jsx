@@ -2,11 +2,11 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>
-        <h1 className="text-3xl font-bold underline">
+    <main>
+        <h1 className="text-5xl text-orange-500 font-bold underline">
            Hello world!
         </h1>
-    </div>
+    </main>
   )
 }
 
