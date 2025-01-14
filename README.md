@@ -14,13 +14,6 @@ This project focuses on delivering a **luxurious, modern feel** with:
 
 ---
 
-## ✨ Features
-- **Scroll-Triggered Animations**: Elevate the user experience with elements that respond to user interaction.
-- **Geometric Transitions**: Sophisticated and seamless transitions for a polished look.
-- **Video Storytelling**: Narratives that captivate through compelling visuals and sound.
-
----
-
 ## 🚀 Technologies
 - **React** (`react`, `react-dom`) for building interactive UI components.
 - **GSAP** and **@gsap/react** for advanced, smooth animations.
