@@ -22,6 +22,6 @@ This project focuses on delivering a **luxurious, modern feel** with:
 ---
 
 ## 🚀 Technologies
-- **HTML5**, **CSS3**, and **JavaScript** for structure, styling, and interactivity.
-- **GSAP (GreenSock)** or **Framer Motion** for advanced animations.
-- **Responsive Design** frameworks for optimal viewing on all devices.
+- **React** (`react`, `react-dom`) for building interactive UI components.
+- **GSAP** and **@gsap/react** for advanced, smooth animations.
+- **React Icons** for scalable, customizable icons.
